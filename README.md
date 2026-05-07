@@ -105,5 +105,10 @@ The comparison showed that ResNet-56 performed much better than Plain CNN-56 at 
 │   ├── confusion_matrix_plain.png
 │   └── confusion_matrix_resnet.png
 ├── results/p4
+│   ├── cnn18-confusionM.jpeg
+│   ├── cnn56-confusionM.jpeg
+│   ├── resent56-confusionM.jpeg
+│   ├── resnet18-confusionM.jpeg
+│   ├── test-accuracy-comparison.jpeg
+│   └── training-loss-comparison.jpeg
 └── README.md
-
