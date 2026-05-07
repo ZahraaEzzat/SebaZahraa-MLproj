@@ -95,8 +95,10 @@ The comparison showed that ResNet-56 performed much better than Plain CNN-56 at 
 ## Repository Structure
 ```text
 .
+├── SZ_ML_proj -final.ipynb
 ├── SZ_ML_proj.ipynb
-├── SZ_ML_proj.ipynb
+├── seba_zahraa_ML_phase3.pdf
+├── seba_zahraa_ML_proj -final.pdf
 ├── results/p3
 │   ├── training_loss.png
 │   ├── test_accuracy.png
@@ -104,3 +106,4 @@ The comparison showed that ResNet-56 performed much better than Plain CNN-56 at 
 │   └── confusion_matrix_resnet.png
 ├── results/p4
 └── README.md
+
